@@ -8,7 +8,7 @@
 
 ### 程序界面
 
-<img src="Screenshots/screenshot1.png" width="500">
+![界面](java_final_project/screenshots/screenshot1.png)
 
 界面参考了老师给的样例。要求绘制一个坐标化的二维空间，由于美工水平比较低，就干脆做成了一个10*20的棋盘，棋子则代表各个人物。
 
@@ -83,7 +83,7 @@ Position类的Holder只允许是Creature和其派生类，Formatter类也只允�
 
 ### 《喽啰的胜利》
 
-<img src="Screenshots/screenshot2.png" width="500">
+![回放](java_final_project/screenshots/screenshot2.png)
 
 收录在record目录下，笑到最后的既不是葫芦娃也不是蛇蝎两个BOSS，而是四个炮灰一样的喽啰。(喽啰:是我DIO哒！)
 
